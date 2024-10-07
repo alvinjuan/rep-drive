@@ -1,10 +1,7 @@
 # Rep-Drive
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Tech Stack
-
-In the project directory, you can run:
+  * ReactJS
 
 ### `npm start`
 
